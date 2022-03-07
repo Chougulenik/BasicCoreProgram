@@ -10,8 +10,6 @@ public class DistanceBetweenTwoPoint {
 		Scanner input = new Scanner(System.in);
         int x = input.nextInt();
         int y = input.nextInt();
-        
-
         // compute distance to (0, 0)
         double dist = Math.sqrt(x*x + y*y);
  
