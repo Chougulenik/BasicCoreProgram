@@ -1,9 +1,7 @@
 package com.bridgelabz.functional;
 
 public class Array {
-
-	//private static int n;
-
+	//private static int n
 	public static void main(String[] args) {
 		int array[][] = new int [2][2];
 		for(int m=0; m<2; m++) 
