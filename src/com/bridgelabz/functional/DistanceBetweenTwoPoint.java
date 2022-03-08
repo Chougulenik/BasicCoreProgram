@@ -3,7 +3,6 @@ package com.bridgelabz.functional;
 import java.util.Scanner;
 
 public class DistanceBetweenTwoPoint {
-
 	public static void main(String args[]) {
 		 
 		System.out.println("Enter the two point X & Y ");
