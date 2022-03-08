@@ -3,7 +3,6 @@ package com.bridgelabz.functional;
 import java.util.Scanner;
 
 public class Quadratic {
-
 	public static void main(String[] args) {
 		double firstRoot = 0;
 		double secondRoot = 0;

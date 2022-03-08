@@ -3,7 +3,6 @@ package com.bridgelabz.functional;
 import java.util.Scanner;
 
 public class WindChill {
-
 	public static void main(String args[]) {
 		
 		Scanner input = new Scanner(System.in);
